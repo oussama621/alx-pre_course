@@ -1,6 +1,6 @@
 #!/bin/bash
 <<<<<<< HEAD
-ALX SCHOOL
+echo "ALX School"
 =======
 ALX SCHOOL
 echo ALX
